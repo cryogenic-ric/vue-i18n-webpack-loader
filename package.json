@@ -1,6 +1,6 @@
 {
   "name": "vue-i18n-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack Build time Internationalization using loader",
   "main": "index.js",
   "directories": {
