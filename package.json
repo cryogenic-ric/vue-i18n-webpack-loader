@@ -1,5 +1,5 @@
 {
-  "name": "vue-i18n-webpack-loader",
+  "name": "vue-i18n-webpack",
   "version": "1.0.0",
   "description": "Webpack Build time Internationalization using loader",
   "main": "index.js",
@@ -19,5 +19,6 @@
     "i18n"
   ],
   "author": "Rishi Ranjan",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/cryogenic-ric/vue-i18n-webpack-loader"
 }
