@@ -1,0 +1,23 @@
+{
+  "name": "vue-i18n-webpack-loader",
+  "version": "1.0.0",
+  "description": "Webpack Build time Internationalization using loader",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@webpack-contrib/defaults": "^6.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Webpack",
+    "Internationalization",
+    "i18n"
+  ],
+  "author": "Rishi Ranjan",
+  "license": "ISC"
+}
